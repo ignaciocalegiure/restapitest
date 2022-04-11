@@ -1,0 +1,5 @@
+{
+  "apiUrl" : "?eman=omar",
+  "statusCode" : 422,
+  "expectedResponse" : {"error":"Missing 'name' parameter"}
+}

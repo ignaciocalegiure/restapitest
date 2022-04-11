@@ -1,0 +1,5 @@
+{
+  "apiUrl" : "?name=carlos&apikey=ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "statusCode" : 401,
+  "expectedResponse" : {"error":"Invalid API key"}
+}

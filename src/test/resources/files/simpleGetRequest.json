@@ -1,0 +1,5 @@
+{
+  "apiUrl" : "?name=ignacio",
+  "statusCode" : 200,
+  "expectedResponse" : {"name":"ignacio","country":[{"country_id":"UY","probability":0.29056317726245257},{"country_id":"CL","probability":0.25943787816277236},{"country_id":"AR","probability":0.19253259738819054}]}
+}

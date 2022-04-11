@@ -1,0 +1,5 @@
+{
+  "apiUrl" : "?name[]=steven&name[]=elton&name[]=roger",
+  "statusCode" : 200,
+  "expectedMultipleResponse" : [{"name":"steven","country":[{"country_id":"US","probability":0.0996556686683788},{"country_id":"AU","probability":0.09042206736714414},{"country_id":"NZ","probability":0.06258268424920017}]},{"name":"elton","country":[{"country_id":"AL","probability":0.33821310508048663},{"country_id":"CV","probability":0.29331916528667934},{"country_id":"MZ","probability":0.13237520144402448}]},{"name":"roger","country":[{"country_id":"CD","probability":0.06472016060539466},{"country_id":"NO","probability":0.050673391417776416},{"country_id":"NI","probability":0.049945177967560185}]}]
+}
