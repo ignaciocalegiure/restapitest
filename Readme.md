@@ -1,6 +1,6 @@
 ## Rest Api Testing Example
 
-I will be using [Nationalize](https://nationalize.io/), which  the nationality of a person given their name. It's used for analytics, ad segmenting, demographic statistics etc.
+I will be using [Nationalize API](https://nationalize.io/), which predicts the nationality of a person given their name. It's used for analytics, ad segmenting, demographic statistics etc.
 
 ### Frameworks:
 
