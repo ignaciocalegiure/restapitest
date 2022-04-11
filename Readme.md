@@ -1,14 +1,14 @@
-##Rest Api Testing Example
+## Rest Api Testing Example
 
 I will be using [Nationalize](https://nationalize.io/), which  the nationality of a person given their name. It's used for analytics, ad segmenting, demographic statistics etc.
 
-###Frameworks:
+### Frameworks:
 
 * Junit 5
 * Assertj
 * Apache HttpClient
 
-###Test:
+### Test:
 
 * simple_get_request: test that the api returns information for a single-name request
 * test_multiple_response: test that the api can return multiple name information in one request
